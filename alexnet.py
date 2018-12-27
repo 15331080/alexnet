@@ -1,4 +1,6 @@
-﻿from __future__ import division, print_function, absolute_import
+﻿#Date: 2018.6
+
+from __future__ import division, print_function, absolute_import
  
 import os
 import tflearn
