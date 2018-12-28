@@ -1,7 +1,6 @@
 ﻿#Date: 2018.6
 #version 1.0
 #author fenyh
-#branch test
 
 from __future__ import division, print_function, absolute_import
  
